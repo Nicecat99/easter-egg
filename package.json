@@ -1,6 +1,6 @@
 {
-name: "Easter Egg",
-version: "1.0.0",
+"name": "Easter Egg",
+"version": "1.0.0",
 "scripts": {
     "dev": "node ./index.js"
   },
